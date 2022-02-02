@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Methane Project]("C:/Users/Owner/OneDrive/Documents/School/Final Presentations/Methane Recorded Talk.pptx")
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src=""C:/Users/Owner/OneDrive/Documents/School/Final Presentations/AIRS.png""/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
