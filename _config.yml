@@ -1,10 +1,10 @@
 title: James Poeschel # your name (or website title) here
 logo: "D:/2020/Farm,selfies,etc/20210404_190231.jpg" # your photo (or logo) here
-description: > Recent Environmental Science and Geography graduate # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <Recent Environmental Science and Geography graduate>
   Second description 
-  <br><br>
+  <Current GIS student>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
