@@ -2,11 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Portfolio 
 
-[Project 1]("C:/Users/Owner/OneDrive/Documents/School/Final Presentations/Methane Recorded Talk.pptx")
-<img src="C:/Users/Owner/OneDrive/Documents/School/Final Presentations/AIRS.png"/>
-
+### [Canada Population Project](/Map1_Canadapop/index)
+[<img src=" "/>](/.../index)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
