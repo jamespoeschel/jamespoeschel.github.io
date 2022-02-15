@@ -5,7 +5,7 @@
 ### Portfolio 
 
 ### [Canada Population Project](/Map1_Canadapop/index)
-[<img src="/pdf/Map1_Canadapop_2020.pdf?raw=true"/>](/.../index)
+[<img src="/images/Map1_Canadapop_2020.pdf?raw=true"/>](/.../index)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
