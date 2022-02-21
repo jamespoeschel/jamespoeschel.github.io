@@ -7,12 +7,10 @@
 ### [Canada Population Project](/pdf/Map1_Canadapop_2020.pdf)
 [<img src="/images/canadapop2020.jpg?raw=true"/>](/.../index)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Landcover types surrounding Iliamna Lake, Alaska](/pdf/Map3_Landcover_Grid_Labeled.pdf)
+<img src="Map3_Landcover_Grid_Labeled.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
