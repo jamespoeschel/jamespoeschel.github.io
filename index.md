@@ -8,7 +8,7 @@
 [<img src="/images/canadapop2020.jpg?raw=true"/>](/.../index)
 ---
 [Landcover types surrounding Iliamna Lake, Alaska](/pdf/Map3_Landcover_Grid_Labeled.pdf)
-[<img src="Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/.../index)
+[<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/.../index)
 ---
 
 ### Category Name 2
