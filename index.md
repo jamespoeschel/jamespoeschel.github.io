@@ -9,6 +9,17 @@
 [<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/.../index)
 ---
 
+### [Languages Spoken in Howard County, MD](/pdf/githublangmap.pdf)
+[<img src="/images/githublangmap.jpg?raw=true"/>](/.../index)
+---
+
+
+
+
+
+
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
