@@ -3,14 +3,7 @@ logo: "/images/nature_icon.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <Strong>Recent Environmental Science and Geography graduate
   <Strong>Current GIS student
-   <br><br>
-<style> 
-body {
-background: rgb(58, 58, 58);
-}
-  {
-color: white;
-}
-</style>
+  <br><br>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
