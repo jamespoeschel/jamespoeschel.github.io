@@ -6,8 +6,10 @@
 <img src="/images/canadapop2020.jpg?raw=true"/>
 
 ---
+
 ### [Landcover types surrounding Iliamna Lake, Alaska](/pdf/Map3_Landcover_Grid_Labeled.pdf)
 [<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/.../index)
+
 ---
 
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
