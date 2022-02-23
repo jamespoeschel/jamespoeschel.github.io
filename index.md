@@ -2,7 +2,6 @@
 
 ---
 ### [Canada Population Project](/pdf/Map1_Canadapop_2020.pdf)
-edited
 [<img src="/images/canadapop2020.jpg?raw=true"/>](/project/)
 
 ---
