@@ -2,19 +2,19 @@
 
 ---
 ### [Canada Population Project](/pdf/Map1_Canadapop_2020.pdf)
-[<img src="images/canadapop2020.jpg?raw=true"/>](/project/index)
+[<img src="/images/canadapop2020.jpg?raw=true"/>](/project/)
 
 ---
 ### [Landcover types surrounding Iliamna Lake, Alaska](/pdf/Map3_Landcover_Grid_Labeled.pdf)
-[<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/project/index)
+[<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/project/)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
-[<img src="/images/github_langmap.jpg?raw=true"/>](/project/index)
+[<img src="/images/github_langmap.jpg?raw=true"/>](/project/)
 
 ---
 ### [Median Household Income MD](/pdf/github_medinc.pdf)
-[<img src="/images/github_medhhinc.jpg?raw=true"/>](/project/index)
+[<img src="/images/github_medhhinc.jpg?raw=true"/>](/project/)
 
 
 
