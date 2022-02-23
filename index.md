@@ -14,6 +14,7 @@
 
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
 [<img src="/images/github_langmap.jpg?raw=true"/>](/.../index)
+
 ---
 
 ### [Median Household Income MD](/pdf/github_medinc.pdf)
