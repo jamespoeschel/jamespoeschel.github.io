@@ -1,12 +1,12 @@
 ## GIS Portfolio
 
 ---
-### [Canada Population Project](/pdf/Map1_Canadapop_2020.pdf)
-[<img src="/images/canadapop2020.jpg?raw=true"/>](/project/)
+### [Bethesda GTFS Bus Frequency](/pdf/bethesda.pdf)
+[<img src="/images/bethesda.png?raw=true"/>](/project/)
 
 ---
-### [Landcover types surrounding Iliamna Lake, Alaska](/pdf/Map3_Landcover_Grid_Labeled.pdf)
-[<img src="/images/Map3_Landcover_Grid_Labeled.jpg?raw=true"/>](/project/)
+### [Raise Baltimore](/pdf/raise_baltimore.pdf)
+[<img src="/images/raise_baltimore.png?raw=true"/>](/project/)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
