@@ -5,7 +5,7 @@
 [<img src="/images/bethesda.png?raw=true"/>](/pdf/bethesda.pdf)
 
 ---
-### [Raise Baltimore](/project/)
+### [Raise Baltimore](/project/raisebaltimore/index.md)
 [<img src="/images/Map9.png?raw=true"/>](/pdf/mapsMap9.pdf)
 
 ---
