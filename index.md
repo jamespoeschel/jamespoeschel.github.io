@@ -1,7 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Bethesda GTFS Bus Frequency Project](/project/Landcover types/index.md)
+### [Bethesda GTFS Bus Frequency Project](/project/Landcovertypes/index.md)
 [<img src="/images/bethesda.png?raw=true"/>](/pdf/bethesda.pdf)
 
 ---
