@@ -10,7 +10,7 @@
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
-[<img src="/images/github_langmap.jpg?raw=true"/>](/project/)
+[<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/langmap_image.pdf)
 
 ---
 ### [Brazil Spatial Analysis](/project/)
