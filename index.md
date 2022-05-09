@@ -1,7 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Bethesda GTFS Bus Frequency](/pdf/bethesda.pdf)
+### [Bethesda GTFS Bus Frequency Project](/pdf/bethesda.pdf)
 [<img src="/images/bethesda.png?raw=true"/>](/project/)
 
 ---
