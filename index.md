@@ -2,7 +2,7 @@
 
 ---
 ### [Bethesda GTFS Bus Frequency Project](/pdf/bethesda.pdf)
-[<img src="/images/bethesda.png?raw=true"/>](/project/)
+[<img src="/images/bethesda.png?raw=true"/>](/project/BethesdaAbout.pdf)
 
 ---
 ### [Raise Baltimore](/pdf/mapsMap9.pdf)
