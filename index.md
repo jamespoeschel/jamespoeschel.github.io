@@ -1,11 +1,11 @@
 ## GIS Portfolio
 
 ---
-### [Bethesda GTFS Bus Frequency Project](/project/bethesda/index.md)
+### [Bethesda GTFS Bus Frequency Project](/projects/bethesda/index.md)
 [<img src="/images/bethesda.png?raw=true"/>](/pdf/bethesda.pdf)
 
 ---
-### [Raise Baltimore](/project/raisebaltimore/index.md)
+### [Raise Baltimore](/projects/raisebaltimore/index.md)
 [<img src="/images/Map9.png?raw=true"/>](/pdf/mapsMap9.pdf)
 
 ---
@@ -13,7 +13,7 @@
 [<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/langmap_image.pdf)
 
 ---
-### [Brazil Spatial Analysis](/project/)
+### [Brazil Spatial Analysis](/projects/)
 [<img src="/images/$$$$$.png?raw=true"/>](/pdf/$$$$$.pdf)
 
 
