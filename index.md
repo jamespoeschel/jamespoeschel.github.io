@@ -5,8 +5,8 @@
 [<img src="/images/bethesda.png?raw=true"/>](/pdf/bethesda.pdf)
 
 ---
-### [Raise Baltimore](/pdf/mapsMap9.pdf)
-[<img src="/images/Map9.png?raw=true"/>](/project/)
+### [Raise Baltimore](/project/)
+[<img src="/images/Map9.png?raw=true"/>](/pdf/mapsMap9.pdf)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
