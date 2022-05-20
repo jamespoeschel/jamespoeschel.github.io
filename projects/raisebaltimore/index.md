@@ -1,6 +1,6 @@
 Map 9 of Raise Baltimore Project for Mead & Hunt
 
-Code used to export all maps in arcpy:
+Code used to export all 40 maps in arcpy:
 
 import arcpy
 
