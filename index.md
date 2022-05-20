@@ -9,8 +9,8 @@
 [<img src="/images/Map9.png?raw=true"/>](/pdf/mapsMap9.pdf)
 
 ---
-### [Brazil Spatial Analysis](/pdf/final_proj.pdf)
-[<img src="/images/$$$$$.png?raw=true"/>](/pdf/$$$$$.pdf)
+### [Brazil Spatial Analysis - Income Study](/pdf/final_proj.pdf)
+[<img src="/images/lisa_bh.png?raw=true"/>](/pdf/lisa_bh.pdf)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
