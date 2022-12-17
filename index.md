@@ -2,7 +2,7 @@
 
 ---
 ### [Clearwater Mobility Study](/pdf/Headway_extraction.pdf)
-[<img src="/images/Clearwater_BusFrequency.jpeg?raw=true"/>](/pdf/bethesda.pdf)
+[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/bethesda.pdf)
 
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
