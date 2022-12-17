@@ -1,6 +1,9 @@
-Map 9 of Raise Baltimore Project for Mead & Hunt
+Raise Baltimore Project for the Maryland Transportation Administration through Mead & Hunt.
 
-Code used to export all 40 maps in arcpy:
+Crash data was sourced from the Maryland Open Data portal.
+
+As the study corridor was long and the client needed a close up of crash hotspots and locations of pedestrian crashes, it was necessary to make 40 maps zoomed in along the corridor to show the data clearly.  The arcpy code used to efficiently export 40 maps is below:
+
 
 import arcpy
 
