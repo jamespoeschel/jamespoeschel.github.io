@@ -6,7 +6,7 @@
 
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
-[<img src="/images/Map9.png?raw=true"/>](/pdf/mapsMap9.pdf)
+[<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/mapsMap9.pdf)
 
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/final_proj.pdf)
