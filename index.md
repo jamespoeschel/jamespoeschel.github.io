@@ -1,7 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Clearwater Mobility Study](projects/ClearwaterProejct/index.md)
+### [Clearwater Mobility Study](projects/ClearwaterProject/index.md)
 [<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
 
 ---
