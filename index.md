@@ -1,8 +1,8 @@
 ## GIS Portfolio
 
 ---
-### [Clearwater Mobility Study](/pdf/Headway_extraction.pdf)
-[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/bethesda.pdf)
+### [Clearwater Mobility Study](projects/ClearwaterProejct/index.md)
+[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
 
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
