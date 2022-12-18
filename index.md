@@ -27,13 +27,13 @@
 
   
 ---
-### [High Injury Network]
+### High Injury Network
 [<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
 <p style="font-size:11px">Maps for Charles and St. Mary's County, MD</p>    
   
   
 ---
-### [MWCOG Map Updates]
+### MWCOG Map Updates
 [<img src="/images/MWCOG_Gif.gif?raw=true"/>](/pdf/MWCOG_Merged.pdf)
 <p style="font-size:11px">Maps for Metropolitan Washington Council of Governments updated transit planning report</p>
   
