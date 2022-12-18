@@ -43,7 +43,7 @@
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf)
 [<img src="/images/BrazilGif.gif?raw=true"/>](/pdf/final_proj.pdf)
-<p style="font-size:11px">Plots created in R as part of final project at UMBC</p> 
+<p style="font-size:11px">Plots created in R as part of a final class project at UMBC</p> 
 
 ---
 ### [Brazil Agricultural Suitability](/Agricultural_Suitability/index.md)
