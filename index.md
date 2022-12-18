@@ -9,8 +9,8 @@
 [<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/RaiseBaltimore_PDFmaps_compressed.pdf)
 
 ---
-### [Brazil Spatial Analysis - Income Study](/pdf/final_proj.pdf)
-[<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/486_final_text.pdf)
+### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf/pdf/final_proj.pdf)
+[<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/final_proj.pdf)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
