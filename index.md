@@ -45,11 +45,7 @@
 [<img src="/images/BrazilGif.gif?raw=true"/>](/pdf/final_proj.pdf)
 <p style="font-size:11px">Plot created in R as part of final project at UMBC</p> 
 
-  
----
-### [Languages Spoken in Howard County, MD](/pdf/langmap_image.pdf)
-[<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/github_langmap.pdf)
-<p style="font-size:11px">Plots created in R as part of course exercise at UMBC</p> 
+ 
 
 
 
