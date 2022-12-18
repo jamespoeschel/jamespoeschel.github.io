@@ -46,7 +46,7 @@
 <p style="font-size:11px">Plots created in R as part of a final class project at UMBC</p> 
 
 ---
-### [Brazil Agricultural Suitability](/Agricultural_Suitability/index.md)
+### [Brazil Agricultural Suitability](/projects/Agricultural_Suitability/index.md)
 [<img src="/images/Agricultural_Suitability.png?raw=true"/>](/pdf/Agricultural_Suitability.pdf)
 <p style="font-size:11px">Map created just for fun</p> 
 
