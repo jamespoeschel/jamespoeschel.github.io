@@ -10,7 +10,7 @@
 
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/final_proj.pdf)
-[<img src="/images/lisa_bh.png?raw=true"/>](/pdf/486_final_text.pdf)
+[<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/486_final_text.pdf)
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
