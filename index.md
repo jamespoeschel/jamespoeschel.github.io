@@ -5,7 +5,7 @@
 ---
 ### [Greenville Equipment Database](/projects/Greenville/index.md)
 [<img src="/images/00_DatabaseLayout_FACTS.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
-<p style="font-size:11px">Geodatabase Deliverable for Greenville, SC</p>  
+<p style="font-size:11px">Relational Geodatabase Inventory for Greenville, SC</p>  
   
   
 ---
