@@ -1,7 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Clearwater Mobility Study](projects/ClearwaterProject/index.md)
+### [Clearwater Mobility Study](/projects/ClearwaterProject/index.md)
 [<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
 <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application for Clearwater, Florida
   
@@ -23,16 +23,18 @@
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis for the City of Baltimore
 
+  
+---
+### [High Injury Network](/projects/CharlesStMarys/index.md)
+[<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
+<p style="font-size:11px">Maps for Charles and St. Mary's County, MD    
+  
+  
 ---
 ### [MWCOG Map Updates](/projects/MWCOG/index.md)
 [<img src="/images/MWCOG_Gif.gif?raw=true"/>](/pdf/MWCOG_Merged.pdf)
 <p style="font-size:11px">Maps for Metropolitan Washington Council of Governments updated transit planning report
   
-
----
-### [High Injury Network](/projects/CharlesStMarys/index.md)
-[<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
-<p style="font-size:11px">Maps for Metropolitan Washington Council of Governments updated transit planning report  
   
   
   
