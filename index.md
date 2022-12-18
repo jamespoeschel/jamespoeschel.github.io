@@ -45,7 +45,10 @@
 [<img src="/images/BrazilGif.gif?raw=true"/>](/pdf/final_proj.pdf)
 <p style="font-size:11px">Plots created in R as part of final project at UMBC</p> 
 
- 
+---
+### [Brazil Agricultural Suitability](/Agricultural_Suitability/index.md)
+[<img src="/images/Agricultural_Suitability.png?raw=true"/>](/pdf/Agricultural_Suitability.pdf)
+<p style="font-size:11px">Map created just for fun</p> 
 
 
 
