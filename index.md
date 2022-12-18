@@ -1,9 +1,11 @@
 ## GIS Portfolio
 
+
+
 ---
-### [Clearwater Mobility Study](/projects/ClearwaterProject/index.md)
-[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
-<a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application for Clearwater, Florida</a></p>
+### [Greenville Equipment Database](/projects/Greenville/index.md)
+[<img src="/images/00_DatabaseLayout_FACTS.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
+<p style="font-size:11px">Map showing existing transit equipment in Greenville, SC</p>  
   
   
 ---
@@ -13,15 +15,15 @@
 
 
 ---
-### [Greenville Equipment Database](/projects/Greenville/index.md)
-[<img src="/images/00_DatabaseLayout_FACTS.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
-<p style="font-size:11px">Map showing existing transit equipment in Greenville, SC</p>  
+### [Clearwater Mobility Study](/projects/ClearwaterProject/index.md)
+[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
+<a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application for Clearwater, Florida</a>
   
 
 ---
 ### [Harford Avenue Study](/projects/HarfordAve/index.md)
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
-<p style="font-size:11px">Parking Analysis for the City of Baltimore
+<p style="font-size:11px">Parking Analysis for the City of Baltimore</p> 
 
   
 ---
@@ -41,13 +43,13 @@
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf/pdf/final_proj.pdf)
 [<img src="/images/BrazilGif.gif?raw=true"/>](/pdf/final_proj.pdf)
-<p style="font-size:11px">Plot created in R as part of final project at UMBC
+<p style="font-size:11px">Plot created in R as part of final project at UMBC</p> 
 
   
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/langmap_image.pdf)
 [<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/github_langmap.pdf)
-<p style="font-size:11px">Plots created in R as part of course exercise at UMBC
+<p style="font-size:11px">Plots created in R as part of course exercise at UMBC</p> 
 
 
 
