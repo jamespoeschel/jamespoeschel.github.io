@@ -3,7 +3,7 @@
 ---
 ### [Clearwater Mobility Study](projects/ClearwaterProject/index.md)
 [<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
-<p style="font-size:11px">Web Map Application for Clearwater, Florida here: 
+<a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application</a></p> <p style="font-size:11px">for Clearwater, Florida
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
 [<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/RaiseBaltimore_PDFmaps_compressed.pdf)
