@@ -6,5 +6,7 @@ Task for this project include:
 <br>
 -Extracting, digitizing, and geolocating data for geodatabase inventory
 <br>
+-Creating Survey123 and ArcCollector surveys for field data collection
+<br>
 -Creating map of all the traffic equipment in the city, as well as maps for an updated report, a kickoff presentation, and maps of all the connected signal systems
 
