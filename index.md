@@ -9,12 +9,13 @@
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
 [<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/RaiseBaltimore_PDFmaps_compressed.pdf)
-<p style="font-size:11px">Crash Analysis project for Maryland Transit Association
+<p style="font-size:11px">Crash Analysis project for Maryland Transit Association 
 
 
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf/pdf/final_proj.pdf)
 [<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/final_proj.pdf)
+  
 
 ---
 ### [Languages Spoken in Howard County, MD](/pdf/langmap_image.pdf)
