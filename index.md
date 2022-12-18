@@ -3,6 +3,7 @@
 ---
 ### [Clearwater Mobility Study](projects/ClearwaterProject/index.md)
 [<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
+<p style="font-size:11px">
 <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application for Clearwater, Florida
   
   
@@ -37,7 +38,7 @@
   
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf/pdf/final_proj.pdf)
-[<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/final_proj.pdf)
+[<img src="/images/BrazilGif.gif?raw=true"/>](/pdf/final_proj.pdf)
 <p style="font-size:11px">Plot created in R as part of final project at UMBC
 
   
