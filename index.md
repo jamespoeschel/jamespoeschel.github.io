@@ -5,7 +5,7 @@
 ---
 ### [Greenville Equipment Database](/projects/Greenville/index.md)
 [<img src="/images/00_DatabaseLayout_FACTS.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
-<p style="font-size:11px">Relational Geodatabase Inventory for Greenville, SC</p>  
+<p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p>  
   
   
 ---
@@ -21,7 +21,7 @@
   
 
 ---
-### [Harford Avenue Study](/projects/HarfordAve/index.md)
+### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis for the City of Baltimore</p> 
 
