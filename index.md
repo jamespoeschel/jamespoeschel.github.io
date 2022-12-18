@@ -13,8 +13,8 @@
 [<img src="/images/belohorizonte.jpg?raw=true"/>](/pdf/final_proj.pdf)
 
 ---
-### [Languages Spoken in Howard County, MD](/pdf/github_langmap.pdf)
-[<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/langmap_image.pdf)
+### [Languages Spoken in Howard County, MD](/pdf/langmap_image.pdf)
+[<img src="/images/github_langmap.jpg?raw=true"/>](/pdf/github_langmap.pdf)
 
 
 
