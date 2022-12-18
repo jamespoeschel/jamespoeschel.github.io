@@ -3,10 +3,12 @@
 ---
 ### [Clearwater Mobility Study](projects/ClearwaterProject/index.md)
 [<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
-
+<p style="font-size:11px">Web Map Application for Clearwater, Florida here: 
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
 [<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/RaiseBaltimore_PDFmaps_compressed.pdf)
+<p style="font-size:11px">Crash Analysis project for Maryland Transit Association
+
 
 ---
 ### [Brazil Spatial Analysis - Income Study](/pdf/486_final_text.pdf/pdf/final_proj.pdf)
