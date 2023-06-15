@@ -3,6 +3,11 @@
 
 
 ---
+### [Clearwater Equipment](/projects/Clearwater/index.md)
+[<img src="/images/Clearwater_equipment_map.png?raw=true"/>](/pdf/.pdf)
+<p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p> 
+
+---
 ### [Greenville Equipment Database](/projects/Greenville/index.md)
 [<img src="/images/Greenville_Database_Reupload.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
 <p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p>  
