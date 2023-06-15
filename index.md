@@ -5,7 +5,7 @@
 ---
 ### [Clearwater Equipment](/projects/Clearwater/index.md)
 [<img src="/images/Clearwater_equipment_map.png?raw=true"/>](/pdf/.pdf)
-<p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p> 
+<p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
 
 ---
 ### [Greenville Equipment Database](/projects/Greenville/index.md)
