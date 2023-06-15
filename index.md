@@ -21,7 +21,7 @@
 
 ---
 ### [Clearwater Mobility Study](/projects/ClearwaterProject/index.md)
-[<img src="/images/Clearwater_BusFrequency.jpg?raw=true"/>](/pdf/Headway_extraction.pdf)
+[<img src="/images/Clearwater_Gif.gif?raw=true"/>](/pdf/Headway_extraction.pdf)
 <p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Web Map Application</a> for Clearwater, Florida</p>
   
 
