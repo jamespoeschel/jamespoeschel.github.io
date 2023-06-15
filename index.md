@@ -46,6 +46,11 @@
 <p style="font-size:11px">Plots created in R as part of a final class project at UMBC</p> 
 
 
+---
+### Other Public Story Maps
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Web Map Application</a> for Maryland State Route 665</p>
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
