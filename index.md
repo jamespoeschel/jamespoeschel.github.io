@@ -57,8 +57,13 @@
 ### Other Public Story Maps
 <p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Web Map Application</a> for Maryland State Route 665</p>
 
-
-
 ---
+### GIS Event attended
+<p style="font-size:11px">TUgis conference, Towson, MD - Aug 4-5, 2022 </p>
+<p style="font-size:11px">TUgis conference, Towson, MD - Aug 2-3, 2023 </p>
+---
+
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
