@@ -40,7 +40,7 @@
 ---
 ### MWCOG Map Updates
 [<img src="/images/MWCOG_FreightPlan_Figure1_TPB.png?raw=true"/>](/pdf/MWCOG_Merged.pdf)
-<p style="font-size:11px">Maps for Metropolitan Washington Council of Governments updated transit planning report</p>
+<p style="font-size:11px">Over 30 maps created for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
   
   
   
