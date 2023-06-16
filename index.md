@@ -30,17 +30,19 @@
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
 
+
+---
+### MWCOG Map Updates
+[<img src="/images/MWCOG_FreightPlan_Figure1_TPB.png?raw=true"/>](/pdf/MWCOG_Merged.pdf)
+<p style="font-size:11px">Over 30 maps created for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
+
+  
   
 ---
 ### High Injury Network
 [<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
 <p style="font-size:11px">Maps for Charles and St. Mary's County, MD</p>    
   
-  
----
-### MWCOG Map Updates
-[<img src="/images/MWCOG_FreightPlan_Figure1_TPB.png?raw=true"/>](/pdf/MWCOG_Merged.pdf)
-<p style="font-size:11px">Over 30 maps created for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
   
   
   
