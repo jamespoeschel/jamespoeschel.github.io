@@ -4,7 +4,7 @@
 
 ---
 ### [Clearwater Equipment](/projects/clearwater_equipment/index.md)
-[<img src="/images/Clearwater_equipment_map.png?raw=true"/>]
+<img src="/images/Clearwater_equipment_map.png?raw=true"/>
 <p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
 
 ---
