@@ -28,7 +28,7 @@
 ---
 ### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
-<p style="font-size:11px">Parking Analysis for the City of Baltimore</p> 
+<p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
 
   
 ---
