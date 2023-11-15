@@ -58,11 +58,14 @@
 
 
 ---
-### Other Public Story Maps
-<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Web Map Application</a> for Maryland State Route 665</p>
+### Public Story Maps
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Mobilitiy Study</a> for Clearwater, FL</p>
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/60c0760d14274fe8bcd0b9be25dad706">Comprehensive Plan Update</a> for the City of Salisbury, MD</p>
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/cb41e5736e2849c997759b5c34224502">Transportation Access and Circulation Study</a> for Georgetown, DC</p>
 
 ---
-### GIS Event attended
+### GIS Events attended
 <p style="font-size:11px">TUgis conference, Towson, MD - Aug 4-5, 2022 </p>
 <p style="font-size:11px">TUgis conference, Towson, MD - Aug 2-3, 2023 </p>
 ---
