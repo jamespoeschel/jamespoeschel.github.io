@@ -3,7 +3,7 @@
 ---
 ### [Maryland Navigable Rivers](/projects/MD_Rivers/index.md)
 [<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
-<p style="font-size:11px">Passionate project - Metro-style River map </p> 
+<p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
 
 
 ---
