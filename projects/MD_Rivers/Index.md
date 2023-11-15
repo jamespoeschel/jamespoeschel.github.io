@@ -1,0 +1,5 @@
+Here is a map I created showing where you can kayak/canoe in Maryland, created entirely in ArcGIS PRO. It is styled like a metro map where the rivers are the transit lines and the attractions are transit stops. The map also shows dams, riverside campsites, rapids and other notable kayak destinations. There are certainly more places you can kayak at, but this map focuses on longer stretches of river for potential multi-day kayak/canoe expeditions. 
+
+The link below takes you to an interactive web map in our company's GIS portal where you can click on the DNR water trails, boat launches, and water-access campsites in Maryland to find more information about the amenities.
+
+https://maps.meadhunt.com/portal/apps/mapviewer/index.html?webmap=1c56747e466c4511b0ef534f0a9bfd78
