@@ -4,7 +4,6 @@
 ### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
 [<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
 <p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
-<p style="font-size:11px"> <a href="https://maps.meadhunt.com/portal/apps/mapviewer/index.html?webmap=1c56747e466c4511b0ef534f0a9bfd78">Web Map</a> tool for Kayak/Canoe amenities</p>
 
 
 ---
