@@ -1,5 +1,9 @@
 ## GIS Portfolio
 
+---
+### [Maryland Navigable Rivers](/projects/MD_Rivers/index.md)
+[<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
+<p style="font-size:11px">Passionate project - Metro-style River map </p> 
 
 
 ---
