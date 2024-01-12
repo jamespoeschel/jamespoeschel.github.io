@@ -73,8 +73,13 @@
 ### GIS Events attended
 <p style="font-size:11px">TUgis conference, Towson, MD - Aug 4-5, 2022 </p>
 <p style="font-size:11px">TUgis conference, Towson, MD - Aug 2-3, 2023 </p>
----
 
+
+---
+### Professional Organizations
+<p style="font-size:11px">Member of NACIS since Jan 11, 2024 </p>
+<p style="font-size:11px">Member of ESA since Jan 1, 2024 </p>
+---
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
