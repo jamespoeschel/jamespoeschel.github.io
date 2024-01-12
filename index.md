@@ -1,4 +1,4 @@
-## GIS Portfolio
+# GIS Portfolio
 
 
 ### List of Public Story Maps
@@ -9,7 +9,7 @@
 <p style="font-size:10px"> <a href="https://storymaps.arcgis.com/stories/cb41e5736e2849c997759b5c34224502">Transportation Access and Circulation Study</a> for Georgetown, DC</p>
 
 ---
-### Map Gallery
+## Map Gallery
 
 ---
 ### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
