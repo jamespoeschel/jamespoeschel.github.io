@@ -38,14 +38,14 @@
 ---
 ### MWCOG Map Updates
 [<img src="/images/MWCOG_FreightPlan_Figure1_TPB.png?raw=true"/>](/pdf/MWCOG_Merged.pdf)
-<p style="font-size:11px">Over 30 maps created for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
+<p style="font-size:11px">Created Over 30 maps for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
 
   
   
 ---
 ### High Injury Network
 [<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
-<p style="font-size:11px">Maps for Charles and St. Mary's County, MD</p>    
+<p style="font-size:11px">Maps for Charles and St. Mary's County, MD showing road segments with high rates of injuries and fatalities</p>    
   
   
   
@@ -59,6 +59,7 @@
 
 ---
 ### Public Story Maps
+<p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/e9ea44b8bfa14ade80274ed84efabfc9">Mobility Study</a> for West Jackson, WY</p>
 <p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
 <p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Mobilitiy Study</a> for Clearwater, FL</p>
 <p style="font-size:11px"> <a href="https://storymaps.arcgis.com/stories/60c0760d14274fe8bcd0b9be25dad706">Comprehensive Plan Update</a> for the City of Salisbury, MD</p>
