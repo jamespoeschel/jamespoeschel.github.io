@@ -1,6 +1,6 @@
 ## GIS Portfolio
 
----
+
 ### List of Public Story Maps
 <p style="font-size:10px"> <a href="https://storymaps.arcgis.com/stories/e9ea44b8bfa14ade80274ed84efabfc9">Mobility Study</a> for West Jackson, WY</p>
 <p style="font-size:10px"> <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
