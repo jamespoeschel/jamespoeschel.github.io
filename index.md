@@ -11,6 +11,11 @@
 ## Map Gallery
 
 ---
+### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
+[<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
+<p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator </p> 
+
+---
 ### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
 [<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
 <p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
