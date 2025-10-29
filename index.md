@@ -83,14 +83,19 @@
 
 ---
 ### GIS Events attended
-<p style="font-size:11px">TUgis conference, Towson, MD - Aug 4-5, 2022 </p>
-<p style="font-size:11px">TUgis conference, Towson, MD - Aug 2-3, 2023 </p>
+<p style="font-size:11px">GIS-T conference, Portland, OR - 2025 </p>
+<p style="font-size:11px">TUgis conference, Towson, MD - 2024 </p>
+<p style="font-size:11px">TUgis conference, Towson, MD - 2023 </p>
+<p style="font-size:11px">TUgis conference, Towson, MD - 2022 </p>
+
+
+
 
 
 ---
 ### Professional Organizations
-<p style="font-size:11px">Member of NACIS since Jan 11, 2024 </p>
-<p style="font-size:11px">Member of ESA since Jan 1, 2024 </p>
+<p style="font-size:11px">Member of NACIS since Janurary, 2024 </p>
+<p style="font-size:11px">Member of MSGIC since August, 2024 </p>
 ---
 
 
