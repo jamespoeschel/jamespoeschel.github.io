@@ -58,7 +58,7 @@ header h1 a:hover {
 
 /* Right-hand content section, respecting the left sidebar */
 section {
-  width: calc(100% - 270px - 30px); /* 270px is sidebar width */
+  width: calc(100% - 350px); /* 270px is sidebar width */
   max-width: 900px;           /* adjust if desired */
   margin-left: 400px;         /* aligns with sidebar */
 }
