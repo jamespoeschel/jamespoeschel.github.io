@@ -67,3 +67,18 @@ section {
 footer {
   display: none;
 }
+
+/* Responsive: small screens / tablets */
+@media (max-width: 1024px) {
+  .wrapper {
+    max-width: 95%; /* or 100% */
+    width: 95%;     /* lets it shrink with the screen */
+    margin: 0 auto; /* keeps it centered */
+  }
+
+  section {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
