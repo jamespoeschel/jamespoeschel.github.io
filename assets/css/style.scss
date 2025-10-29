@@ -49,11 +49,10 @@ header h1 a:hover {
    Custom: widen right content
    ======================= */
 
-/* Make the entire page wrapper wider */
-.wrapper {
-  max-width: 1200px; /* adjust this as desired */
-  width: 95%;        /* keeps it responsive */
-  margin: 0 auto;    /* center horizontally on the page */
+/* Widen only the right-hand content section */
+section {
+  max-width: 900px;  /* adjust as needed */
+  width: 90%;        /* keeps it responsive */
 }
 
 /* Hide the footer */
