@@ -49,16 +49,21 @@ header h1 a:hover {
    Custom: widen right content
    ======================= */
 
+/* Widen the entire page wrapper */
+.wrapper {
+  max-width: 1000px; /* increased from 860px */
+  width: 95%;        /* keeps it responsive */
+  margin: 0 auto;    /* center horizontally */
+}
 
-/* Widen only the right-hand content section for desktop screens */
+/* Right-hand content section, respecting the left sidebar */
 section {
-  width: calc(100% - 270px);  /* total width minus sidebar */
-  max-width: 700px;            /* optional cap */
-  margin-left: 270px;          /* aligns right section after sidebar */
+  width: calc(100% - 270px); /* 270px is sidebar width */
+  max-width: 900px;           /* adjust if desired */
+  margin-left: 300px;         /* aligns with sidebar */
 }
 
 /* Hide the footer */
 footer {
   display: none;
 }
-
