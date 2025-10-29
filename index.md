@@ -9,7 +9,7 @@
 ---
 ## Public Story Maps
 <p> 
-  <span style="font-size:12px; font-weight:bold;">Safe Streets for All Action Plan for: </span> 
+  <span style="font-size:12px; font-weight:bold;">Safe Streets for All - Action Plan for: </span> 
   <span style="font-size:11px;"><a href="https://storymaps.arcgis.com/stories/e99fa098e91f4d8e8a45789e08c08121">Lexington County, SC</a> &nbsp; | &nbsp; <a href="https://storymaps.arcgis.com/stories/79291b22044d4281b4e20f5c0ab0c387">Greenwood County, SC</a></span>
   <br>
   <span style="font-size:12px; font-weight:bold;">Mobility Study for: </span> 
