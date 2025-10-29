@@ -29,7 +29,7 @@
 
 
 ### [Digital Nomad Hotspots](/projects/Digital_Nomad_Hotspots/index.md)
-[<img src="/images/DigitalNomadHotspots.png?raw=true" style="height:80%; width:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
+[<img src="/images/DigitalNomadHotspots.png?raw=true" style="height:50%; width:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
 <p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator </p> 
 
 ---
