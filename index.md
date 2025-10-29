@@ -8,7 +8,7 @@
 
 ---
 ## Public Story Maps
-<p style="font-size:14px"> <a href="https://storymaps.arcgis.com/stories/e99fa098e91f4d8e8a45789e08c08121">Safe Streets for All Action Plan</a> for Lexington County, SC &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/79291b22044d4281b4e20f5c0ab0c387">Safe Streets for All Action Plan</a> for Greenwood County, SC</p>
+<p style="font-size:14px"> Safe Streets for All Action Plan for: <a href="https://storymaps.arcgis.com/stories/e99fa098e91f4d8e8a45789e08c08121">Lexington County, SC</a>  &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/79291b22044d4281b4e20f5c0ab0c387">Greenwood County, SC</a></p>
 <p style="font-size:14px"> <a href="https://storymaps.arcgis.com/stories/e9ea44b8bfa14ade80274ed84efabfc9">Mobility Study</a> for West Jackson, WY &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
 <p style="font-size:14px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Mobilitiy Study</a> for Clearwater, FL &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/cb41e5736e2849c997759b5c34224502">Transportation Access and Circulation Study</a> for Georgetown, DC</p>
 
