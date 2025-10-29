@@ -6,6 +6,7 @@
   <span style="font-size:12px;"> <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html"> Canoe Trip Planning Tool </a>: Leaflet JavaScript Application <br>
   <a href="https://poeschelgeog863.free.nf/FinalProj/index.html">Dynamic Buffer Creation Tool </a>: ArcGIS SDK for JavaScript Application <br>
   <a href="https://poeschelgeog863.free.nf/Lesson8/index.html">Custom Filter Tool </a>: ArcGIS SDK for JavaScript Application
+  </span>
 </p>
 
 ---
