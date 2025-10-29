@@ -15,6 +15,11 @@
 ## Map Gallery
 
 ---
+### [Digital Nomad Hotspots in Europe](/projects/Digital_Nomad_Hotspots/index.md)
+[<img src="/images/DigitalNomadHotspots.png?raw=true"/>](/pdf/DigitalNomadHotspots.pdf)
+<p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator </p> 
+
+---
 ### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
 [<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
 <p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator </p> 
