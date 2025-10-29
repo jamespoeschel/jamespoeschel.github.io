@@ -12,7 +12,7 @@
 ---
 ## Public Story Maps
 <p> 
-  <span style="font-size:12px; font-weight:bold;">Safe Streets for All - Action Plan for: </span> <br>
+  <span style="font-size:12px; font-weight:bold;">Safe Streets for All Study for: </span>
   <span style="font-size:11px;"><a href="https://storymaps.arcgis.com/stories/e99fa098e91f4d8e8a45789e08c08121">Lexington County, SC</a> &nbsp; | &nbsp; <a href="https://storymaps.arcgis.com/stories/79291b22044d4281b4e20f5c0ab0c387">Greenwood County, SC</a> &nbsp; | &nbsp; <a href="https://storymaps.arcgis.com/stories/572894a655b44579a0923b7ec3299b58">Clinton, SC</a> &nbsp; | &nbsp; <a href="https://storymaps.arcgis.com/stories/99d895790b7f4df1afd7ba05d98728e7">Aiken, SC</a> 
   </span>
   <br>
@@ -29,12 +29,12 @@
 
 
 ### [Digital Nomad Hotspots](/projects/Digital_Nomad_Hotspots/index.md)
-[<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:90%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
+[<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:95%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
 <p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator </p> 
 
 ---
 ### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
-[<img src="/images/MH_Offices_2024_Final.png?raw=true" style="width:90%; height:auto;"/>](/pdf/MH_Offices_2024_Final.pdf)
+[<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
 <p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator </p> 
 
 ---
