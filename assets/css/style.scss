@@ -49,10 +49,10 @@ header h1 a:hover {
    Custom: widen right content
    ======================= */
 
-/* Adjust the index.md section without affecting left sidebar */
-.content, .main-content {
-  max-width: 1100px; /* adjust width as needed */
-  width: 90%;       /* responsive */
+/* Make the entire page wrapper wider */
+.wrapper {
+  max-width: 1200px; /* adjust this as desired */
+  width: 95%;        /* keeps it responsive */
+  margin: 0 auto;    /* center horizontally on the page */
 }
-
 
