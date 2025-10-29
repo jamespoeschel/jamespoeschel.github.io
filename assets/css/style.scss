@@ -44,3 +44,13 @@ header h1 a:hover {
  font-size: 1.2em;
  color: #080808;
 }
+
+/* =======================
+   Custom: widen right content
+   ======================= */
+
+/* Adjust the index.md section without affecting left sidebar */
+.content, .main-content {
+  max-width: 900px; /* adjust width as needed */
+  width: 90%;       /* responsive */
+}
