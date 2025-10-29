@@ -52,9 +52,9 @@ header h1 a:hover {
 
 /* Widen only the right-hand content section for desktop screens */
 section {
-  max-width: 700px;       /* adjust to desired width */
-  width: 90%;             /* allows it to shrink slightly if needed */
-  margin-left: 270px;     /* same width as left sidebar */
+  width: calc(100% - 270px);  /* total width minus sidebar */
+  max-width: 700px;            /* optional cap */
+  margin-left: 270px;          /* aligns right section after sidebar */
 }
 
 /* Hide the footer */
