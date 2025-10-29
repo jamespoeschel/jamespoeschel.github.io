@@ -49,10 +49,11 @@ header h1 a:hover {
    Custom: widen right content
    ======================= */
 
-/* Widen only the right-hand content section */
-section {
-  max-width: 1200px;  /* adjust as needed */
-  width: 90%;        /* keeps it responsive */
+@media (max-width: 768px) {
+  section {
+    width: 100%;
+    margin-left: 0;
+  }
 }
 
 /* Hide the footer */
