@@ -1,14 +1,14 @@
 # GIS Portfolio
 
 ## Custom Coded Maps
-<p style="font-size:10px"> <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html">Canoe Trip Planning Tool </a>: Leaflet JavaScript Application</p>
-<p style="font-size:10px"> <a href="https://poeschelgeog863.free.nf/FinalProj/index.html">Dynamic Buffer Creation Tool </a>: ArcGIS SDK for JavaScript Application</p>
-<p style="font-size:10px"> <a href="https://poeschelgeog863.free.nf/Lesson8/index.html">Custom Filter Tool </a>: ArcGIS SDK for JavaScript Application</p>
+<p style="font-size:14px"> <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html">Canoe Trip Planning Tool </a>: Leaflet JavaScript Application</p>
+<p style="font-size:14px"> <a href="https://poeschelgeog863.free.nf/FinalProj/index.html">Dynamic Buffer Creation Tool </a>: ArcGIS SDK for JavaScript Application</p>
+<p style="font-size:14px"> <a href="https://poeschelgeog863.free.nf/Lesson8/index.html">Custom Filter Tool </a>: ArcGIS SDK for JavaScript Application</p>
 
 
 ## Public Story Maps
-<p style="font-size:10px"> <a href="https://storymaps.arcgis.com/stories/e9ea44b8bfa14ade80274ed84efabfc9">Mobility Study</a> for West Jackson, WY &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
-<p style="font-size:10px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Mobilitiy Study</a> for Clearwater, FL &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/cb41e5736e2849c997759b5c34224502">Transportation Access and Circulation Study</a> for Georgetown, DC</p>
+<p style="font-size:14px"> <a href="https://storymaps.arcgis.com/stories/e9ea44b8bfa14ade80274ed84efabfc9">Mobility Study</a> for West Jackson, WY &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Road Design Alternatives</a> for Maryland State Route 665</p>
+<p style="font-size:14px"> <a href="https://storymaps.arcgis.com/stories/edb73bf91e904ed2a7bca50f06425b48">Mobilitiy Study</a> for Clearwater, FL &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://storymaps.arcgis.com/stories/cb41e5736e2849c997759b5c34224502">Transportation Access and Circulation Study</a> for Georgetown, DC</p>
 
 ---
 ## Map Gallery
