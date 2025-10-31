@@ -44,11 +44,6 @@
 
 
 ---
-### [Clearwater Equipment](/projects/clearwater_equipment/index.md)
-[<img src="/images/Clearwater_equipment_map.png?raw=true"/>](/pdf/equipment_map.pdf)
-<p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
-
----
 ### [Chicago Office Location Allocation](/projects/Chicago_Location_Allocation/index.md)
 [<img src="/images/Chicago_Location_Allocation.png?raw=true"/>](/images/Chicago_Location_Allocation.png)
 <p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
@@ -68,6 +63,13 @@
 [<img src="/images/HoCo_Crash_Diagrams.gif?raw=true"/>](/images/HoCo_Crash_Diagrams.gif)
 <p style="font-size:11px">Crash Diagrams for Howard County, MD</p>  
   
+
+---
+### [Clearwater Equipment](/projects/clearwater_equipment/index.md)
+[<img src="/images/Clearwater_equipment_map.png?raw=true"/>](/pdf/equipment_map.pdf)
+<p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
+
+
   
 ---
 ### [Raise Baltimore](/projects/raisebaltimore/index.md)
