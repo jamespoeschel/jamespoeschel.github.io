@@ -96,8 +96,11 @@
 
 ---
 ### Professional Organizations
-<p style="font-size:11px">Member of NACIS since Janurary, 2024 </p>
-<p style="font-size:11px">Member of MSGIC since August, 2024 </p>
+<p style="font-size:11px">
+  MSGIC Private Caucus Chair Aug 2024- 2025 <br>
+  Member of NACIS since Janurary, 2024 <br>
+  Member of MSGIC since August, 2024 <br>
+</p>
 ---
 
 
