@@ -50,7 +50,7 @@
 
 ---
 ### [Greenville Equipment Database](/projects/Greenville/index.md)
-[<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Merged.pdf)
+[<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Database.png)
 <p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p>  
   
   
