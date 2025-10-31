@@ -70,20 +70,6 @@
 ### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
-
-
----
-### MWCOG Map Updates
-[<img src="/images/MWCOG_FreightPlan_Figure1_TPB.png?raw=true"/>](/pdf/MWCOG_Merged.pdf)
-<p style="font-size:11px">Created Over 30 maps for the Metropolitan Washington Council of Governments using ArcMap to update transit planning report</p>
-
-  
-  
----
-### High Injury Network
-[<img src="/images/CharlesMarysGif.gif?raw=true"/>](/pdf/CharlesMarysMerged.pdf)
-<p style="font-size:11px">Maps for Charles and St. Mary's County, MD showing road segments with high rates of injuries and fatalities</p>    
-  
   
   
   
@@ -97,10 +83,12 @@
 
 ---
 ### GIS Events attended
-<p style="font-size:11px">GIS-T conference, Portland, OR - 2025 </p>
-<p style="font-size:11px">TUgis conference, Towson, MD - 2024 </p>
-<p style="font-size:11px">TUgis conference, Towson, MD - 2023 </p>
-<p style="font-size:11px">TUgis conference, Towson, MD - 2022 </p>
+<p style="font-size:11px">
+  GIS-T conference, Portland, OR - 2025 <br>
+  TUgis conference, Towson, MD - 2024 <br>
+  TUgis conference, Towson, MD - 2023 <br>
+  TUgis conference, Towson, MD - 2022 <br>
+</p>
 
 
 
