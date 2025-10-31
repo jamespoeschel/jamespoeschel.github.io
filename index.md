@@ -49,9 +49,24 @@
 <p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
 
 ---
-### [Greenville Equipment Database](/projects/Greenville/index.md)
+### [Chicago Office Location Allocation](/projects/Chicago_Location_Allocation/index.md)
 [<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Database.png)
-<p style="font-size:11px">Relational Geodatabase Inventory Project for Greenville, SC</p>  
+<p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
+
+---
+### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
+[<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Database.png)
+<p style="font-size:11px">Severe Crashes and High Injury Network Analysis for Greenwood, SC </p>  
+
+---
+### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
+[<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Database.png)
+<p style="font-size:11px">High Injury Network, Road Safety Analysis for Allegany and Garrett County, MD</p>  
+
+---
+### [Howard County Crash Analysis](/projects/HoCo_Crash_Diagrams/index.md)
+[<img src="/pdf/Greenville_Database.png?raw=true"/>](/pdf/Greenville_Database.png)
+<p style="font-size:11px">Crash Diagrams for Howard County, MD</p>  
   
   
 ---
