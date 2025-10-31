@@ -60,7 +60,7 @@
 
 ---
 ### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
-[<img src="//images/WesternMD_HIN.gif?raw=true"/>](/pdf/Greenville_Database.png)
+[<img src="/images/WesternMD_HIN.gif?raw=true"/>](/pdf/Greenville_Database.png)
 <p style="font-size:11px">High Injury Network, Road Safety Analysis for Allegany and Garrett County, MD</p>  
 
 ---
