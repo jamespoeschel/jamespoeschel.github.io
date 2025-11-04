@@ -60,6 +60,11 @@
 [<img src="/images/HoCo_Crash_Diagrams.gif?raw=true"/>](/images/HoCo_Crash_Diagrams.gif)
 <p style="font-size:11px">Crash Diagrams for Howard County, MD</p>  
   
+---
+### Harford Avenue Study
+[<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
+<p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
+  
 
 ---
 ### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
@@ -73,12 +78,6 @@
 [<img src="/images/Clearwater_equipment_map.png?raw=true"/>](/pdf/Clearwater_equipment_map.pdf)
 <p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
 
-
----
-### Harford Avenue Study
-[<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
-<p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
-  
   
   
 ---
@@ -96,9 +95,6 @@
   TUgis conference, Towson, MD - 2023 <br>
   TUgis conference, Towson, MD - 2022 <br>
 </p>
-
-
-
 
 
 ---
