@@ -1,7 +1,7 @@
 # GIS Portfolio
 
 ---
-## JavaScript Map Applications
+## JavaScript Web Map Applications
 <p>
   <span style="font-size:12px;"> 
     <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html"> Canoe Trip Planning Tool </a>: Leaflet JavaScript Application <br>
@@ -10,6 +10,7 @@
   </span>
 </p>
 
+---
 ## ArcGIS Experience Builder Applications
 <p>
   <span style="font-size:12px;"> 
@@ -31,9 +32,8 @@
   <span style="font-size:12px; font-weight:bold;">Road Design for: </span> 
   <span style="font-size:11px;"><a href="https://storymaps.arcgis.com/stories/c280f30675494022bf0f7a511e98a9ea">Maryland State Route 665</a></span>
 </p>
-
-
 ---
+
 ## Map Gallery
 
 
@@ -41,23 +41,22 @@
 [<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:75%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
 <p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator </p> 
 
----
+
 ### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
 [<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
 <p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator </p> 
 
----
+
 ### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
 [<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
 <p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
 
 
----
 ### [Chicago Office Location Allocation](/projects/Chicago_Location_Allocation/index.md)
 [<img src="/images/Chicago_Location_Allocation.png?raw=true"/>](/images/Chicago_Location_Allocation.png)
 <p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
 
----
+
 ### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
