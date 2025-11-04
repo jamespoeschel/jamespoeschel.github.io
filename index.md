@@ -74,18 +74,10 @@
 <p style="font-size:11px">Inventory of Traffic Equipment in Clearwater for Fiber Conduit Installation project </p> 
 
 
-  
----
-### [SMRT Bus Station Analysis](/projects/SMRT_Bullseye/index.md)
-[<img src="/images/SMRT_Bullseye.gif?raw=true"/>](/pdf/SMRT_Bullseye.pdf)
-<p style="font-size:11px">Southern Maryland Rapid Transit - Proposed Bus Station Analysis for Maryland Transit Association</p> 
-
-
 ---
 ### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
-  
   
   
   
