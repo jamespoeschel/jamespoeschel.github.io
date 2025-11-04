@@ -13,8 +13,8 @@
 ## ArcGIS Experience Builder Applications
 <p>
   <span style="font-size:12px;"> 
-  <a href="https://smrtmaryland.com/"> MDOT Southern Maryland Rapid Transit Interactive Map  </a>: Click on "Interactive Map" to access to the web application <br>
-  <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> USDOT Freight Network Tool </a>: Under "NHFN Visualization Webtool" click: "Access the Tool"
+  <a href="https://smrtmaryland.com/"> SMRT Interactive Map  </a>: Interactive web application for Maryland DOT's SMRT project <br>
+  <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> Freight Network Tool </a>: Interactive web application for the United States Department of Transportation (under "NHFN Visualization Webtool" click: "Access the Tool)"
   </span>
 </p>
 
