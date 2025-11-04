@@ -4,17 +4,17 @@
 ## JavaScript Map Applications
 <p>
   <span style="font-size:12px;"> 
-  <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html"> Canoe Trip Planning Tool </a>: Leaflet JavaScript Application <br>
-  <a href="https://poeschelgeog863.free.nf/FinalProj/index.html">Dynamic Buffer Creation Tool </a>: ArcGIS SDK for JavaScript Application <br>
-  <a href="https://poeschelgeog863.free.nf/Lesson8/index.html">Custom Filter Tool </a>: ArcGIS SDK for JavaScript Application
+    <a href="https://canoe-trip-planning-tool.s3.us-east-2.amazonaws.com/WaterTrails.html"> Canoe Trip Planning Tool </a>: Leaflet JavaScript Application <br>
+    <a href="https://poeschelgeog863.free.nf/FinalProj/index.html">Dynamic Buffer Creation Tool </a>: ArcGIS SDK for JavaScript Application <br>
+    <a href="https://poeschelgeog863.free.nf/Lesson8/index.html">Custom Filter Tool </a>: ArcGIS SDK for JavaScript Application
   </span>
 </p>
 
 ## ArcGIS Experience Builder Applications
 <p>
   <span style="font-size:12px;"> 
-  <a href="https://smrtmaryland.com/"> SMRT Interactive Map  </a>: Interactive web application for Maryland DOT's SMRT project <br>
-  <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> Freight Network Tool </a>: Interactive web application for the United States Department of Transportation (under "NHFN Visualization Webtool" click: "Access the Tool)"
+    <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> Freight Network Tool </a>: Interactive web application for the United States Department of Transportation (click: "Access the Tool)"
+    <a href="https://smrtmaryland.com/"> SMRT Interactive Map  </a>: Interactive web application to support the Maryland Department of Transportation SMRT project <br
   </span>
 </p>
 
