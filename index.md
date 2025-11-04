@@ -36,15 +36,14 @@
 
 ## Map Gallery
 
+### [Digital Nomad Hotspots](/projects/Digital_Nomad_Hotspots/index.md)
+[<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:75%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
+<p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator - Passion Project </p> 
+---
 
 ### Harford Avenue Study
 [<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
 <p style="font-size:11px">Crash Analysis and road safety study for the City of Baltimore</p> 
----
-
-### [Digital Nomad Hotspots](/projects/Digital_Nomad_Hotspots/index.md)
-[<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:75%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
-<p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator - Passion Project </p> 
 ---
 
 ### [Chicago Office Location Allocation](/projects/Chicago_Location_Allocation/index.md)
