@@ -44,17 +44,7 @@
 
 ### [Digital Nomad Hotspots](/projects/Digital_Nomad_Hotspots/index.md)
 [<img src="/images/DigitalNomadHotspots.png?raw=true" style="width:75%; height:auto;"/>](/pdf/DigitalNomadHotspots.pdf)
-<p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator </p> 
----
-
-### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
-[<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
-<p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator </p> 
----
-
-### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
-[<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
-<p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
+<p style="font-size:11px"> Map of Digital Nomad Hotspots in Europe, created in ArcGIS PRO and Adobe Illustrator - Passion Project </p> 
 ---
 
 ### [Chicago Office Location Allocation](/projects/Chicago_Location_Allocation/index.md)
@@ -62,19 +52,28 @@
 <p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
 ---
 
-### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
-[<img src="/images/WesternMD_HIN.gif?raw=true"/>](/images/WesternMD_HIN.gif)
-<p style="font-size:11px">High Injury Network, Road Safety Analysis for Allegany and Garrett County, MD</p>  
-
-
+### [Mead & Hunt Offices](/projects/MH_Offices/index.md)
+[<img src="/images/MH_Offices_2024_Final.png?raw=true"/>](/pdf/MH_Offices_2024_Final.pdf)
+<p style="font-size:11px"> Map of M&H office locations, created in ArcGIS PRO and Adobe Illustrator - Passion Project </p> 
 ---
+
 ### [Howard County Crash Analysis](/projects/HoCo_Crash_Diagrams/index.md)
 [<img src="/images/HoCo_Crash_Diagrams.gif?raw=true"/>](/images/HoCo_Crash_Diagrams.gif)
 <p style="font-size:11px">Crash Diagrams for Howard County, MD</p>  
-  
-
-
 ---
+
+### [Navigable Rivers of Maryland](/projects/MD_Rivers/index.md)
+[<img src="/images/MarylandWaterTrails.png?raw=true"/>](/pdf/MarylandWaterTrails.pdf)
+<p style="font-size:11px">Metro-style River map of Maryland - Passion Project </p> 
+---
+
+
+### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
+[<img src="/images/WesternMD_HIN.gif?raw=true"/>](/images/WesternMD_HIN.gif)
+<p style="font-size:11px">High Injury Network, Road Safety Analysis for Allegany and Garrett County, MD</p>  
+---
+
+
 ### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
 [<img src="/images/Greenwood_Crashes.png?raw=true"/>](/images/Greenwood_Crashes.png)
 <p style="font-size:11px">Severe Crashes and High Injury Network Analysis for Greenwood, SC </p>  
