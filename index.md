@@ -48,6 +48,11 @@
 [<img src="/images/Chicago_Location_Allocation.png?raw=true"/>](/images/Chicago_Location_Allocation.png)
 <p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
 
+---
+### Harford Avenue Study
+[<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
+<p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
+  
 
 ---
 ### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
@@ -60,11 +65,7 @@
 [<img src="/images/HoCo_Crash_Diagrams.gif?raw=true"/>](/images/HoCo_Crash_Diagrams.gif)
 <p style="font-size:11px">Crash Diagrams for Howard County, MD</p>  
   
----
-### Harford Avenue Study
-[<img src="/images/Harford_Gif.gif?raw=true"/>](/pdf/Harford_Merged.pdf)
-<p style="font-size:11px">Parking Analysis and Field Work for the City of Baltimore</p> 
-  
+
 
 ---
 ### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
