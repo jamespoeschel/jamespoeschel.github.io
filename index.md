@@ -13,8 +13,8 @@
 ## ArcGIS Experience Builder Applications
 <p>
   <span style="font-size:12px;"> 
-    <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> Freight Network Tool </a>: Interactive web application for the United States Department of Transportation (click: "Access the Tool)" <br>
-    <a href="https://smrtmaryland.com/"> SMRT Interactive Map  </a>: Interactive web application to support the Maryland Department of Transportation SMRT project
+    <a href="https://ops.fhwa.dot.gov/freight/fpcb/tools_nhfn.aspx"> Freight Network Tool </a>: Interactive map for the United States Department of Transportation (click: "Access the Tool)" <br>
+    <a href="https://smrtmaryland.com/"> SMRT Interactive Map  </a>: Interactive map to support the Maryland Department of Transportation SMRT project
   </span>
 </p>
 
