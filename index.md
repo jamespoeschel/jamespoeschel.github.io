@@ -48,15 +48,17 @@
 [<img src="/images/Chicago_Location_Allocation.png?raw=true"/>](/images/Chicago_Location_Allocation.png)
 <p style="font-size:11px">Office Location Allocation for Mead & Hunt, performed used ArcGIS PRO Network Analyst Extension </p>  
 
----
-### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
-[<img src="/images/Greenwood_Crashes.png?raw=true"/>](/images/Greenwood_Crashes.png)
-<p style="font-size:11px">Severe Crashes and High Injury Network Analysis for Greenwood, SC </p>  
 
 ---
 ### [Western Maryland HIN](/projects/WesternMD_HIN/index.md)
 [<img src="/images/WesternMD_HIN.gif?raw=true"/>](/images/WesternMD_HIN.gif)
 <p style="font-size:11px">High Injury Network, Road Safety Analysis for Allegany and Garrett County, MD</p>  
+
+---
+### [Greenwood Crashes](/projects/Greenwood_Crashes/index.md)
+[<img src="/images/Greenwood_Crashes.png?raw=true"/>](/images/Greenwood_Crashes.png)
+<p style="font-size:11px">Severe Crashes and High Injury Network Analysis for Greenwood, SC </p>  
+
 
 ---
 ### [Howard County Crash Analysis](/projects/HoCo_Crash_Diagrams/index.md)
