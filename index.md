@@ -76,9 +76,9 @@
 
   
 ---
-### [Raise Baltimore](/projects/raisebaltimore/index.md)
-[<img src="/images/RaiseBalt_ShortGif.gif?raw=true"/>](/pdf/RaiseBaltimore_PDFmaps_compressed.pdf)
-<p style="font-size:11px">Crash Analysis project for Maryland Transit Association</p> 
+### [SMRT Bus Station Analysis](/projects/SMRT_Bullseye/index.md)
+[<img src="/images/SMRT_Bullseye.gif?raw=true"/>](/pdf/SMRT_Bullseye.pdf)
+<p style="font-size:11px">Southern Maryland Rapid Transit - Proposed Bus Station Analysis for Maryland Transit Association</p> 
 
 
 ---
