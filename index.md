@@ -38,8 +38,8 @@
 <p>
   <span style="font-size:12px; font-weight:bold;">Link to Github Repositories: </span>
   <br>
-  <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS-Toolbox/">Custom ArcGIS Pro Toolbox</a></span> <br>
-  <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS_FavoriteTools_Add-In/">Custom ArcGIS Add-In Tools</a></span>
+  <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS-Toolbox/">Custom ArcGIS Pro Toolbox</a>: Collection of tools I created within my first 4 years as a GIS Analyst </span> <br>
+  <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS_FavoriteTools_Add-In/">Custom ArcGIS Add-In Tools</a>: Add-In Toolbar featuring a few of my most useful tools </span>
 </p>
 
 
