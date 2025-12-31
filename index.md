@@ -36,7 +36,8 @@
 ---
 ### Custom Tools
 <p>
-  <span style="font-size:11px;"><a href="https://github.com/jamespoeschel/ArcGIS-Toolbox/">ArcGIS Pro Toolbox</a></span>
+  <span style="font-size:12px; font-weight:bold;">Link to Github Repositories: </span>
+  <span style="font-size:11px;"><a href="https://github.com/jamespoeschel/ArcGIS-Toolbox/">Custom ArcGIS Pro Toolbox</a></span>
 </p>
 
 
