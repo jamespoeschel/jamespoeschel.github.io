@@ -39,6 +39,7 @@
   <span style="font-size:12px; font-weight:bold;">Link to Github Repositories: </span>
   <br>
   <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS-Toolbox/">Custom ArcGIS Pro Toolbox</a></span>
+  <span style="font-size:12px;"><a href="https://github.com/jamespoeschel/ArcGIS_FavoriteTools_Add-In/">Custom ArcGIS Add-In Tools</a></span>
 </p>
 
 
